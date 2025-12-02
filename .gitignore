@@ -1,1 +1,5 @@
 .vscode/
+.metals/
+.bloop/
+.scala-build/
+metals.sbt
