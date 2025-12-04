@@ -3,3 +3,5 @@
 .bloop/
 .scala-build/
 metals.sbt
+day04/day04
+*.out
